@@ -3,7 +3,7 @@
 ## Creación repositorio local
 Para crear el repositorio local, el cual tiene dos archivos de texto ("archivo1" y "archivo2"), debemos usar el comando git init y acontinuacion el nombre que le queramos poner al repositorio, en mi caso lo hice tal que así:
 
-![](/Actividad1_1/unidad1/img/init.png)
+![](/unidad1/img/init.png)
 
 ## Conectar el repositorio local con uno remoto en GitHub
 
@@ -29,6 +29,7 @@ una vez lo ejecutemos se tendría que ver tal que así:
 
 Cuando tengmaos todo subido tal y como queremos en el repositorio, debemos hacerque el repositorio del Debian se actualice también, lo haremos con el comando "git pull" estando dentro del repositorio local, debe salir lo siguiente al ejecutarlo:
 ![](pull.png)
+
 
 
 
